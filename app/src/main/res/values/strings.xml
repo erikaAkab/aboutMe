@@ -1,4 +1,19 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="erika_midori">Erika Midori</string>
+    <string name="star_button">star button</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+        ut labore et dolore magna aliqua. Lacus suspendisse faucibus interdum posuere lorem ipsum dolor. Sodales ut eu
+        sem integer vitae justo eget magna. Ultrices tincidunt arcu non sodales neque sodales ut. Non enim praesent
+        elementum facilisis leo vel fringilla. At imperdiet dui accumsan sit. Ornare quam viverra orci sagittis eu
+        volutpat odio facilisis mauris. Lectus magna fringilla urna porttitor rhoncus dolor purus non enim. Ac felis
+        donec et odio pellentesque diam volutpat. Fermentum odio eu feugiat pretium nibh ipsum consequat nisl vel. Porta
+        lorem mollis aliquam ut porttitor leo a diam sollicitudin. Nam aliquam sem et tortor consequat id porta nibh.
+        Sit amet nisl suscipit adipiscing bibendum est ultricies integer. Faucibus turpis in eu mi bibendum neque
+        egestas congue. Sagittis eu volutpat odio facilisis mauris sit amet massa. In eu mi bibendum neque egestas
+        congue quisque egestas. Venenatis a condimentum vitae sapien pellentesque habitant morbi. Enim nec dui nunc
+        mattis. Metus dictum at tempor commodo ullamcorper.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
